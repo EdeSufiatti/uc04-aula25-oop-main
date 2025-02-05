@@ -1,9 +1,9 @@
 {
-  "name": "uc04-aula25-oop-main",
+  "name": "uc04-aula25-oop2-banco",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/index.ts",
+    "dev": "nodemon ./src/banco/index.ts",
     "start": "npx tsc && node ./dist/index.js"
   },
   "keywords": [],
